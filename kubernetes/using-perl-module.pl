@@ -1,3 +1,6 @@
+#!/usr/bin/perl
+
+
 use Kubectl::CLIWrapper;
  
 my $kube = Kubectl::CLIWrapper->new(
